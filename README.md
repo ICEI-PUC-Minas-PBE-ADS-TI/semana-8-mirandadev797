@@ -5,15 +5,19 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Marina Miranda Nunes
+- Matrícula: 968137
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >> 
+![console](images/lista.png)
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![console](images/media.png)
 
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![console](images/checagens.png)
 
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![paginaweb](images/paginacomresumo.png)
